@@ -1,0 +1,7 @@
+1. Download the latest version of SQL Server Express installer from: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+2. Install the latest version of SQL Server Management Studio (SSMS) from the installer above or https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+
+3. Create your database and restore a backup of my "CollegeFootballPoll" database to it or use the SQL scripts to create your own
+
+4. Download SQL Server Reporting Services (SSRS) to write a report to view your poll and make it easy to copy/paste your results.
